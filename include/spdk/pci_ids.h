@@ -54,6 +54,7 @@ extern "C" {
 #define SPDK_PCI_VID_VMWARE		0x15ad
 #define SPDK_PCI_VID_REDHAT		0x1b36
 #define SPDK_PCI_VID_NUTANIX		0x4e58
+#define SPDK_PCI_VID_COSMOS		0x10ee
 
 #define SPDK_PCI_CLASS_ANY_ID		0xffffff
 /**
